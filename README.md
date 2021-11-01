@@ -1,6 +1,7 @@
 # IDS_Task
 Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines.
-https://www.drivendata.org/competitions/66/flu-shot-learning/
+
+link to the official competition page: https://www.drivendata.org/competitions/66/flu-shot-learning/
 
 Here you can find a possible solution to this classification task:
 "Your goal is to predict how likely individuals are to receive their H1N1 and seasonal flu vaccines.
